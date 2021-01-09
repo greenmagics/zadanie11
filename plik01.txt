@@ -1,2 +1,2 @@
 galaz master: pierwsza rewizja
-galaz branch01: druga rewizja
+galaz branch01: druga rewizja+galaz branch02: kolejna rewizja
